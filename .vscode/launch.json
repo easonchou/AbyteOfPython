@@ -8,6 +8,7 @@
 			"stopOnEntry": true,
 			"program": "${file}",
             "pythonPath": "/usr/local/bin/python3",
+            //"args": ["we" ,"are","args"],
 			"debugOptions": [
 				"WaitOnAbnormalExit",
 				"WaitOnNormalExit",
